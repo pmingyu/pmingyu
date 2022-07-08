@@ -2,7 +2,7 @@
 
 ## Profile
 * Name : Mingyu Park
-* Major : System Management Engineering
+* Major : Department of System Management Engineering, Technology & Data Engineering
 * Email : mingu7539@gmail.com
 
 ## Studied in
