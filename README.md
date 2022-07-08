@@ -1,10 +1,16 @@
 # Pmingyu
+
+## Profile
+* Name : Mingyu Park
+* Major : System Management Engineering
+* Email : mingu7539@gmail.com
+
 ## Studied in
 * 2017.03. ~ Pukyong National University, Department of System Management Engineering, Majoring in Technology Service Engineering
 * 2021.01. ~ 2021.02.15. SDSA, The Southampton Data Science Academy, Fundamentals of Data Science Course Achievement
 * 2021.07. ~ [SME Business Analytics Lab(prof.Jihwan Lee)](http://pknu-balab.herokuapp.com/) ~ Studying Now
 
-## Awards
+## Project
 [2021 Dacon Joiss Marine Science Big Data Competition](https://dacon.io/competitions/official/235793/overview/description)
 * [github](https://github.com/pmingyu/joiss)🏆 대한원격탐사학회장상 수상
 
