@@ -3,7 +3,7 @@
 ## Profile
 * Name : Mingyu Park
 * Major : Department of System Management Engineering, Technology & Data Engineering
-* How to contact me : mingu@gmail.com or Click this badge! <a href="mailto:mingu7539@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+* How to contact me : <a href="mailto:mingu7539@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> <a href="https://www.instagram.com/_pxmgu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 
 ## 📚Studied in
 * 2017.03. ~ 2023.02.17. [Bachelor's Degree] Pukyong National University, Department of System Management Engineering, Majoring in Technology Service Engineering(https://sme.pknu.ac.kr/sme/1)
