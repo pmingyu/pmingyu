@@ -22,3 +22,6 @@
 
 [SDSA The Southampton Data Science Academy, Fundamentals of Data Science](https://cms.pknu.ac.kr/pknusme/view.do?no=13640&idx=483693&view=view&pageIndex=1&sv=&sw=)
 * [github](https://github.com/pmingyu/gStep)🏆 성과보고서 3등 수상
+
+![pmingyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmingyu&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmingyu&layout=demo&theme=radical)
