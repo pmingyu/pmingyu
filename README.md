@@ -39,4 +39,4 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmingyu&layout=demo&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmingyu&layout=compact&theme=radical)
