@@ -6,7 +6,7 @@
 * How to contact me : <a href="mailto:mingu7539@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 
 ## 📚Studied in
-* 2017.03. ~ 2023.02.17. [A degree of Bachelor] Pukyong National University, Department of System Management Engineering, Majoring in Technology Service Engineering(https://sme.pknu.ac.kr/sme/1)
+* 2017.03. ~ 2023.02.17. [A degree of Bachelor] [Pukyong National University, Department of System Management Engineering, Majoring in Technology Service Engineering](https://sme.pknu.ac.kr/sme/1)
 * 2021.01. ~ 2021.02.15. SDSA, The Southampton Data Science Academy, Fundamentals of Data Science Course Achievement
 * 2021.07. ~ [SME Business Analytics Lab(prof.Jihwan Lee)](https://www.notion.so/pknu-balab/Korean-Student-Page-f4a49e62258745929d0b9c0bef0a48fe) ~ Studying Now
 * 2023.03. ~ [A degree of Master] PNU & PKNU joint course, Department of Industrial and Data Engineering 
