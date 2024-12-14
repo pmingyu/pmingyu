@@ -2,7 +2,8 @@
 
 ## Profile
 * Name : Mingyu Park
-* Major : Department of System Management Engineering, Technology & Data Engineering
+* Bachelor Major : Department of System Management Engineering, Technology & Data Engineering
+* Master Major : Department of Industrial and Data Engineering
 * How to contact me : <a href="mailto:mingu7539@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 
 ## 📚Studied in
