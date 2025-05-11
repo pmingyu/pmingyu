@@ -22,8 +22,6 @@
 [2021 Compas Predicting to demand of parkingslot](https://compas.lh.or.kr/subj/competition/info?subjNo=SBJ_2107_003#)
 * [github](https://github.com/pmingyu/parkingslot)🏆 LH 사장상 수상
 
-[SDSA The Southampton Data Science Academy, Fundamentals of Data Science](https://cms.pknu.ac.kr/pknusme/view.do?no=13640&idx=483693&view=view&pageIndex=1&sv=&sw=)
-* [github](https://github.com/pmingyu/gStep)🏆 성과보고서 3등 수상
 
 ## 💡Tech Stack
 **Techs that I've used at least once**
